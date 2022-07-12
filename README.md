@@ -11,10 +11,10 @@ This project was run using the following:
 ## Setup
 After cloning or forking the repository, you can run the project in the below manner:
 1. Make a folder called `glut` within the C drive
-  - `C:\glut`
-2. Download `glut-3.7.6-bin.zip` and extract the contents of the zip fie
+   - `C:\glut`
+2. Download `glut-3.7.6-bin.zip` and extract the contents of the zip file
 3. Place the folder `glut-3.7.6-bin` into `C:\glut`
-  - Verify that you see the following five files: `glut.def`, `glut.h`, `glut32.dll`, `glut32.lib`, `README-win32.txt`
+   - Verify that you see the following five files: `glut.def`, `glut.h`, `glut32.dll`, `glut32.lib`, `README-win32.txt`
 4. Move `glut32.dll` to `C:\Windows\System32` or `C:\Windows\SysWOW64` (depending on your operating system)
 5. Create a new directory under `C:\glut\glut-3.7.6-bin` and name it `GL`
 6. Move `glut.h` to `C:\glut\glut-3.7.6-bin\GL`
