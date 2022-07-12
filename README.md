@@ -17,8 +17,8 @@ When the user starts the project, they will be able to perform the below operati
  * c - change the spin direction
  * f - show frames-per-second (FPS)
  * e - rasterize image
- * + - decrease triangle rasterization count
- * - - increase triangle rasterization count
+ * (+) - decrease triangle rasterization count
+ * (-) - increase triangle rasterization count
  * d - enable/disable box rasterization display
  * F1 - display box scene
  * F2 - display house scene
