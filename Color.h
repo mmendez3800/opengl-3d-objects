@@ -1,5 +1,5 @@
-#ifndef CSE167_Color_h
-#define CSE167_Color_h
+#ifndef Color_h
+#define Color_h
 
 class Color
 {
