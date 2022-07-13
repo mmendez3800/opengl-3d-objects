@@ -1,5 +1,5 @@
-#ifndef CSE167_Sphere_h
-#define CSE167_Sphere_h
+#ifndef SPHERE_H
+#define SPHERE_H
 
 #include <iostream>
 #include "Drawable.h"
