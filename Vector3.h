@@ -1,5 +1,5 @@
-#ifndef CSE167_Vector3_h
-#define CSE167_Vector3_h
+#ifndef VECTOR3_H
+#define VECTOR3_H
 
 #include <string>
 
