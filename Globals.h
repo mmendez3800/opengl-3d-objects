@@ -1,5 +1,5 @@
-#ifndef CSE167_Globals_h
-#define CSE167_Globals_h
+#ifndef GLOBALS_H
+#define GLOBALS_H
 
 #include "Camera.h"
 #include "House.h"
