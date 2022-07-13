@@ -1,5 +1,5 @@
-#ifndef CSE167_Matrix4_h
-#define CSE167_Matrix4_h
+#ifndef MATRIX4_H
+#define MATRIX4_H
 
 #include <string>
 
