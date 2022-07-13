@@ -1,5 +1,5 @@
-#ifndef CSE167_OBJObject_h
-#define CSE167_OBJObject_h
+#ifndef OBJOBJECT_H
+#define OBJOBJECT_H
 
 #include <iostream>
 #include <vector>
