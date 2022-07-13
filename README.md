@@ -1,4 +1,4 @@
-# OpenGL 3D Scenes
+# OpenGL 3D Objects
 This project implements basic shape and object rendering using OpenGL
 
 ## General Info
