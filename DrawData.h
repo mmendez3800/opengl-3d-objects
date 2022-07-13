@@ -1,5 +1,5 @@
-#ifndef DrawData_h
-#define DrawData_h
+#ifndef DRAWDATA_H
+#define DRAWDATA_H
 
 #include <iostream>
 
