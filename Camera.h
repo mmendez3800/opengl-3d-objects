@@ -1,5 +1,5 @@
-#ifndef CSE167_Camera_h
-#define CSE167_Camera_h
+#ifndef Camera_h
+#define Camera_h
 
 #include "Matrix4.h"
 #include "Vector3.h"
