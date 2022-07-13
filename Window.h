@@ -1,5 +1,5 @@
-#ifndef CSE167_Window_h
-#define CSE167_Window_h
+#ifndef WINDOW_H
+#define WINDOW_H
 
 #include "Matrix4.h"
 
