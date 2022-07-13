@@ -1,5 +1,5 @@
-#ifndef CSE167_Rasterizer_h
-#define CSE167_Rasterizer_h
+#ifndef RASTERIZER_H
+#define RASTERIZER_H
 
 #include "Matrix4.h"
 #include "Drawable.h"
