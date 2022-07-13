@@ -1,5 +1,5 @@
-#ifndef CSE167_Drawable_h
-#define CSE167_Drawable_h
+#ifndef Drawable_h
+#define Drawable_h
 
 #include <iostream>
 #include "Vector3.h"
