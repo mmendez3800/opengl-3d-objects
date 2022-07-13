@@ -1,5 +1,5 @@
-#ifndef CSE167_House_h
-#define CSE167_House_h
+#ifndef HOUSE_H
+#define HOUSE_H
 
 #include "Drawable.h"
 
