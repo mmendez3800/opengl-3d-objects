@@ -1,5 +1,5 @@
-#ifndef CSE167_RenderData_h
-#define CSE167_RenderData_h
+#ifndef DrawData_h
+#define DrawData_h
 
 #include <iostream>
 
